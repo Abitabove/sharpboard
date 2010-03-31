@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ctype="Workspace" />
+  <MonoDevelop.Ide.DebuggingService>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SharpBoard\MainForm.cs" ctype="Workbench">
+    <Files>
+      <File FileName="SharpBoardLibrary\Display\DisplayDeviceProvider.cs" Line="1" Column="1" />
+      <File FileName="SharpBoardLibrary\Display\X11\X11DeviceProvider.cs" Line="1" Column="1" />
+      <File FileName="SharpBoard\MainForm.cs" Line="58" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="SharpBoard" expanded="True">
+            <Node name="MainForm.cs" selected="True" />
+          </Node>
+          <Node name="SharpBoardLibrary" expanded="True">
+            <Node name="Display" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
