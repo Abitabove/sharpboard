@@ -1,0 +1,1 @@
+SharpBoard.NET is an educational and school-oriented application that implement a WhiteBoard using a Wiimote, an IRPen and a PC. It's an OpenSource and Cross-Platform software written in C# for Windows, Linux and MacOS (using .Net Framework and Mono).
